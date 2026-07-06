@@ -126,13 +126,11 @@ Se espera:
 ```
 evidencias/
 ├── 01_topologia.png
-├── 02_crypto_ikev2_profile_keyring.png
-├── 03_crypto_map_tunnel.png
-├── 04_show_crypto_ikev2_sa.png
-├── 05_show_crypto_ipsec_sa.png
-├── 06_show_ip_ospf_neighbor.png
-├── 07_show_ip_route.png
-└── 08_ping_pc1_pc2.png
+├── 02_show_crypto_ikev2_sa.png
+├── 03_show_crypto_ipsec_sa.png
+├── 04_show_ip_ospf_neighbor.png
+├── 05_show_ip_route.png
+└── 06_wireshark_esp_trafico.png
 ```
 
 ---
