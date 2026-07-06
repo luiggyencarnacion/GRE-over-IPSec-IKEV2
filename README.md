@@ -101,7 +101,7 @@ Migrar el escenario de GRE over IPSec a **IKEv2**, reemplazando ISAKMP por el ma
 
 ## 🔧 Configuración
 
-Ver archivo: `Configuración de VPN GRE over IPSec IKEv2.txt`
+Ver archivo: `files/config.txt`
 
 ---
 
@@ -124,7 +124,7 @@ Se espera:
 ## 📸 Capturas de Pantalla
 
 ```
-evidencias/
+images/
 ├── 01_topologia.png
 ├── 02_show_crypto_ikev2_sa.png
 ├── 03_show_crypto_ipsec_sa.png
